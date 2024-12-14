@@ -1,3 +1,26 @@
+## octomap_rviz_plugins (humble) - 2.1.1-1
+
+The packages in the `octomap_rviz_plugins` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble octomap_rviz_plugins --override-release-repository-push-url git@github.com:revyos-ros/octomap_rviz_plugins-release.git` on `Sat, 14 Dec 2024 11:55:13 -0000`
+
+The `octomap_rviz_plugins` package was released.
+
+Version of package(s) in repository `octomap_rviz_plugins`:
+
+- upstream repository: https://github.com/OctoMap/octomap_rviz_plugins.git
+- release repository: https://github.com/revyos-ros/octomap_rviz_plugins-release.git
+- rosdistro version: `2.1.1-1`
+- old version: `2.1.0-1`
+- new version: `2.1.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## octomap_rviz_plugins (jazzy) - 2.1.0-1
 
 The packages in the `octomap_rviz_plugins` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release -r jazzy --non-interactive octomap_rviz_plugins` on `Tue, 02 Jul 2024 16:19:12 -0000`
